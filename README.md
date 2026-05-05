@@ -24,6 +24,9 @@ This project is designed to control lighting in specific areas of a home using a
 3. **Upload the Code**: Use the Arduino IDE to upload the code to your microcontroller.
 4. **Power the System**: Ensure your system is powered and the lights are connected properly.
 
+   <img width="975" height="738" alt="image" src="https://github.com/user-attachments/assets/128dd6ea-96f0-4f8e-90da-e88d8d0c6936" />
+
+
 ## Usage Details
 - Press the push button to activate the lights.
 - The porch light will turn on for 30 seconds.
